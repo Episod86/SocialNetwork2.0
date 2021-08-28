@@ -1,0 +1,12 @@
+.sidebar {
+  grid-area: sidebar;
+  background-color: rgb(237, 225, 225);
+}
+
+.nav ul {
+  list-style-type: none;
+}
+
+.activeLink {
+  color: gold;
+}
